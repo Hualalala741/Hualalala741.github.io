@@ -1,0 +1,9 @@
+baseURL = "https://Hualalala741.github.io/"
+languageCode = "zh-cn"
+title = "myblog"
+theme = "PaperMod"
+
+[params]
+  defaultTheme = "auto"  # 自动跟随系统深色/浅色
+  ShowReadingTime = true
+  ShowPostNavLinks = true
